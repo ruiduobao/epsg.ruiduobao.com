@@ -304,9 +304,9 @@ const handleCommand = (command) => {
 
 
 const rotation = ref(0); // 添加这一行来定义 rotation 变量，默认值设置为 0
-const center = ref([11158582, 4813697]);
+const center = ref([5158582, 2413697]);
 const projection = ref("EPSG:3857");
-const zoom = ref(4);
+const zoom = ref(1);
 const layerList = ref([]);
 
 // 定义图层和可视化变量
