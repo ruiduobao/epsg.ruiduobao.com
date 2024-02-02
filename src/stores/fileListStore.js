@@ -5,7 +5,7 @@ export const useFileListStore = defineStore('fileList', {
   state: () => ({
     epsgData: [],
     epsgallData: [],
-    WMTS:"",
+    SELECT_EPSG:"",
   }),
   actions: {
     setEpsgData(newEpsgData) {
