@@ -49,7 +49,7 @@
     >
       <ol-source-xyz
         crossOrigin="anonymous"
-        url="http://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}"
+        url="https://gac-geo.googlecnapps.cn/maps/vt?lyrs=s%40781&hl=zh-CN&x={x}&y={y}&z={z}&src=app&scale=2&from=app"
       />
     </ol-tile-layer>
 
